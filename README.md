@@ -1,6 +1,6 @@
 # OrderMyFood
 
-An online food ordering system developed using MEAN (MongoDB, ExpressJS, Angular, NodeJS) with jwt authentication enabled and password encrypted.
+An onlinee food ordering system developed using MEAN (MongoDB, ExpressJS, Angular, NodeJS) with jwt authentication enabled and password encrypted.
   
 Live Demo: https://order-my-food-online.herokuapp.com/
 
